@@ -1,0 +1,22 @@
+{
+  "name": "ejs-challenge",
+  "version": "1.0.0",
+  "description": "A blog developed on the course The Complete 2022 Web Development Bootcamp",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ygor Pinto Gama",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.3",
+    "lodash": "^4.17.21",
+    "mongoose": "^6.3.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "YgorGama"
+  }
+}
